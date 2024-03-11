@@ -1,0 +1,74 @@
+{
+  "allPost" : [
+   {
+    "slug": "sora-ai",
+    "title": "Creating video from text",
+    "date": "2023-10-16",
+    "image": "https://media.licdn.com/dms/image/D4D12AQGshfj2QQQUBA/article-cover_image-shrink_720_1280/0/1708272935982?e=1715817600&v=beta&t=D8TVl5NnKzmzZxveZHLchrJQ6a4xW3rUzgbWCWtSMvI",
+    "excerpt": "Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.",
+    "isFeatured": false,
+    "readerCount": "1.2k",
+    "content": "\r\n Sora is an AI model that can create realistic and imaginative scenes from text instructions.\r\n \r\n Today, Sora is becoming available to red teamers to assess critical areas for harms or risks.\r\n  \r\n We are also granting access to a number of visual artists, designers, and filmmakers to gain feedback on how to advance the model to be most helpful for creative professionals.\r\n \r\n We’re sharing our research progress early to start working with and getting feedback from people outside of OpenAI and to give the public a sense of what AI capabilities are on the horizon.\r\n \r\n ## Safety\r\n \r\n  We’ll be taking several important safety steps ahead of making Sora available in OpenAI’s products.\r\n \r\n"
+  },
+  {
+    "slug": "DALL-E",
+    "title": "Generates images from text description by conditional ver GPT.",
+    "excerpt": "Generates diverse and creative images based on textual prompts.",
+    "image": "https://gadgetmates.com/wp-content/uploads/2024/02/dall-e-logo.png",
+    "isFeatured": true,
+    "readerCount": "3.4k",
+    "date": "2022-12-30",
+    "content": "\r\n Model Description: Generates images from textual descriptions using a conditional version of GPT.\r\n \r\n * Item Model Category: Natural Language Processing (NLP) for Image Generation\r\n \r\n * Item Model Developer/Organization: OpenAI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Generates diverse and creative images based on textual prompts.\r\n \r\n * Item Performance Metrics: Notable for its capability to generate high-quality images from textual descriptions.\r\n \r\n * Item Availability: Proprietary (API access provided by OpenAI)\r\n \r\n * Item Wikipedia:  [link](https://en.wikipedia.org/wiki/DALL-E) **https://en.wikipedia.org/wiki/DALL-E** \r\n \r\n * Item Microsoft blog: [link](https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai) **https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai**  \r\n \r\n"
+  },
+  {
+    "slug": "CycleGAN",
+    "title": "Cycle-Consistent Generative Adversarial Network",
+    "excerpt": "Generates diverse and creative images based on textual prompts.",
+    "image": "https://image.slidesharecdn.com/cyclegan-180213114942/75/unpaired-imagetoimage-translation-with-cyclegan-1-2048.jpg?cb=1669309352",
+    "isFeatured": false,
+    "readerCount": "1.3k",
+    "date": "2022-12-30",
+    "content": "\r\n \r\n * Item Model Description: Unsupervised image-to-image translation model.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Jun-Yan Zhu et al. (UC Berkeley)\r\n \r\n * Item Model Architecture: Generative Adversarial Network (GAN \r\n \r\n * Item Key Features: Translates images from one domain to another without paired examples using a cycle-consistency loss.\r\n \r\n * Item Performance Metrics: Demonstrated impressive results in various image translation tasks.\r\n \r\n * Item Availability: Open-source (licensed under MIT License)\r\n \r\n * Item Tensorflow website: [link](https://www.tensorflow.org/tutorials/generative/cyclegan)  **https://www.tensorflow.org/tutorials/generative/cyclegan** \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/cycle-generative-adversarial-network-cyclegan-2/) **https://www.geeksforgeeks.org/cycle-generative-adversarial-network-cyclegan-2/** \r\n \r\n"
+  },
+  {
+    "slug": "VGG",
+    "title": "Visual Geometry Group",
+    "excerpt": "Deep convolutional neural network architecture for image recognition.",
+    "image": "https://eng.ox.ac.uk/media/4847/vgg_bottom_banner_eng_dpt-1.png?width=810&height=350&rnd=133386334336800000",
+    "isFeatured": true,
+    "readerCount": "2.7k",
+    "date": "2022-12-30",
+    "content": "\r\n \r\n * Item Model Description: Deep convolutional neural network architecture for image recognition.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Visual Geometry Group, University of Oxford\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Known for its simplicity and effectiveness in image classification tasks.\r\n \r\n * Item Performance Metrics: Achieved competitive results in ImageNet classification challenges.\r\n \r\n * Item Availability: Open-source (licensed under Creative Commons Attribution 4.0 International License)\r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/vgg-16-cnn-model/) **https://www.geeksforgeeks.org/vgg-16-cnn-model/**  \r\n \r\n * Item Kaggle: [link](https://www.kaggle.com/code/blurredmachine/vggnet-16-architecture-a-complete-guide) **https://www.kaggle.com/code/blurredmachine/vggnet-16-architecture-a-complete-guide** \r\n \r\n"
+  },
+  {
+    "slug": "DenseNet",
+    "title": "Densely Connected Convolutional Network",
+    "excerpt": "Dense connectivity patterns between layers in convolutional neural networks.",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/pytorch/Densenet.png",
+    "isFeatured": false,
+    "readerCount": "2.4k",
+    "date": "2022-12-30",
+    "content": "\r\n \r\n * Item Model Description: Dense connectivity patterns between layers in convolutional neural networks.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Cornell University\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Facilitates feature reuse and alleviates the vanishing-gradient problem.\r\n \r\n * Item Performance Metrics: Achieved state-of-the-art results in image classification and object detection tasks.\r\n \r\n * Item Availability: Open-source (licensed under MIT License) \r\n \r\n * Item  Github blog: [link](https://amaarora.github.io/posts/2020-08-02-densenets.html) **https://amaarora.github.io/posts/2020-08-02-densenets.html** \r\n \r\n * Item  Microsoft Learn: [link](https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/densenet?view=azureml-api-2) **https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/densenet?view=azureml-api-2** \r\n \r\n"
+  },
+  {
+    "slug": "BART",
+    "title": "Bidirectional and Auto-Regressive Transformers",
+    "excerpt": "Sequence-to-sequence model for text generation and comprehension tasks.",
+    "image": "https://img.squadhelp.com/story_images/visual_images/1700044163-Bart_main.png?class=show",
+    "isFeatured": false,
+    "readerCount": "2.7k",
+    "date": "2022-12-30",
+    "content": "\r\n \r\n * Item Model Description: Sequence-to-sequence model for text generation and comprehension tasks.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Capable of various NLP tasks, including text summarization, language translation, and document completion.\r\n \r\n * Item Performance Metrics: Achieved competitive results in summarization and generation benchmarks.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Google blogs: [link](https://blog.google/technology/ai/bard-google-ai-search-updates/) **https://blog.google/technology/ai/bard-google-ai-search-updates/** \r\n \r\n"
+  },
+  {
+    "slug": "RoBERTa",
+    "title": "Robustly Optimized BERT Approach",
+    "excerpt": "Optimized version of BERT with improved training procedures.",
+    "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/icml_2019_best_paper_google_ai.jpg",
+    "isFeatured": true,
+    "readerCount": "3.3k",
+    "date": "2022-12-30",
+    "content": "\r\n \r\n * Item Model Description: Optimized version of BERT with improved training procedures.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Achieves better performance by pre-training with larger datasets and longer sequences.\r\n \r\n * Item Performance Metrics: Competitive results in various NLP benchmarks, including GLUE and SQuAD.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/overview-of-roberta-model/) **https://www.geeksforgeeks.org/overview-of-roberta-model/**         Pytorch: [link](https://pytorch.org/hub/pytorch_fairseq_roberta/) **https://pytorch.org/hub/pytorch_fairseq_roberta/** \r\n \r\n"
+  }
+ ]
+}
