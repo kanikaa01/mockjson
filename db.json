@@ -1,6 +1,5 @@
-{
-  "allPost" : [
-   {
+[
+  {
     "slug": "sora-ai",
     "title": "Creating video from text",
     "date": "2023-10-16",
@@ -70,5 +69,4 @@
     "date": "2022-12-30",
     "content": "\r\n \r\n * Item Model Description: Optimized version of BERT with improved training procedures.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Achieves better performance by pre-training with larger datasets and longer sequences.\r\n \r\n * Item Performance Metrics: Competitive results in various NLP benchmarks, including GLUE and SQuAD.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/overview-of-roberta-model/) **https://www.geeksforgeeks.org/overview-of-roberta-model/**         Pytorch: [link](https://pytorch.org/hub/pytorch_fairseq_roberta/) **https://pytorch.org/hub/pytorch_fairseq_roberta/** \r\n \r\n"
   }
- ]
-}
+]
